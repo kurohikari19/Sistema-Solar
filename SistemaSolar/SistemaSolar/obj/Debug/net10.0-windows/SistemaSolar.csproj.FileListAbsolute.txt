@@ -1,0 +1,16 @@
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\bin\Debug\net10.0-windows\SistemaSolar.exe
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\bin\Debug\net10.0-windows\SistemaSolar.deps.json
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\bin\Debug\net10.0-windows\SistemaSolar.runtimeconfig.json
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\bin\Debug\net10.0-windows\SistemaSolar.dll
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\bin\Debug\net10.0-windows\SistemaSolar.pdb
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.Form1.resources
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.csproj.GenerateResource.cache
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.AssemblyInfoInputs.cache
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.AssemblyInfo.cs
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.csproj.CoreCompileInputs.cache
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.dll
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\refint\SistemaSolar.dll
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.pdb
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\SistemaSolar.genruntimeconfig.cache
+C:\Users\kuroh\Documents\SistemaSolar\SistemaSolar\obj\Debug\net10.0-windows\ref\SistemaSolar.dll
